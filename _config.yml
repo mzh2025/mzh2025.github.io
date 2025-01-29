@@ -21,15 +21,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Loki Tuen"
+  name             : "Loki T"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The Hong Kong Polytecnic University"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=3jMQogwAAAAJ"
-  email            : # "tuenmzh@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "tuenmzh@163.com"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-9508-6689"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
