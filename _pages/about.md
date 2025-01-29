@@ -11,10 +11,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# 📝 About Me
+# 🧑‍💻 About Me
 Hi, this is Loki's personal Homepage. I am currently pursuing the Ph.D. degree in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. 
 
-# 📝 Research Interests
+## 📝 Research Interests
 Power System, Fault Analysis
 
 # 📝 Publications 
@@ -34,7 +34,7 @@ Power System, Fault Analysis
 - **[C5]** R. Pan, Y. Liu, B. Wang, Y. Nie, and M. Duan, “Simplified time-domain high-order model for mmc-hvdc converter stations during line faults considering line boundary elements,” in *2022 IEEE Power & Energy Society General Meeting (PESGM)*, IEEE, 2022, pp. 1–5.
 
 
-# 📖 Educations
+# 🎓 Educations
 - Ph.D. *2024.09 - 2027.08 (now)*, The Hong Kong Polytechnic University, Electrical Engineering.
 - M.S. *2021.09 - 2024.07*, ShanghaiTech University, Electronics Science and Technology. 
 - B.S. *2017.09 - 2021.06*, Dalian University of Technology, Electrical Engineering and Its Automation.
