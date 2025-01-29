@@ -29,7 +29,6 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3jMQogwAAAAJ"
   email            : "tuenmzh@163.com"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-9508-6689"
   researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -46,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0002-9508-6689"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
