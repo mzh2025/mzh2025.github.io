@@ -23,7 +23,7 @@ Hi, this is Loki's personal Homepage. I am currently pursuing the Ph.D. degree i
 # 📝 Publications 
 
 ## Research Interests
-Power System, Fault Location, Topology Identification, Data-Driven
+- Power System, Fault Location, Topology Identification, Data-Driven
 
 ## Journal Articles:
 
