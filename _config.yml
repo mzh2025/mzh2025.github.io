@@ -7,12 +7,12 @@
 
 # Site Settings
 title                    : "L0K1"
-description              : # ""
+description              : "Homepage"
 repository               : "mzh2025/mzh2025.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # 3jMQogwAAAAJ
+google_analytics_id      :  3jMQogwAAAAJ
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
