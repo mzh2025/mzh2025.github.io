@@ -12,7 +12,7 @@ redirect_from:
 
 
 # 🧑‍💻 About Me
-Hi, this is Loki's personal Homepage. I am currently pursuing the Ph.D. degree in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. 
+Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. 
 
 # 🎓 Educations
 - Ph.D. *2024.09 - 2027.08 (expected)*, The Hong Kong Polytechnic University, Electrical Engineering.
