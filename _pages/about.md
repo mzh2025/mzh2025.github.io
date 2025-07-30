@@ -23,7 +23,7 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 # 📝 Publications 
 
 ## Research Interests
-- Power System, Fault Location, Topology Identification, Data-Driven
+- Power System, State Estimation, Topology Identification, Data-Driven
 
 ## Journal Articles:
 
