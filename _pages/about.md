@@ -16,7 +16,7 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 
 # 🎓 Educations
 - Ph.D. *2024.09 - 2027.08 (expected)*, The Hong Kong Polytechnic University, Electrical Engineering.
-- M.S. *2021.09 - 2024.07*, ShanghaiTech University, Electronics Science and Technology. 
+- M.S. *2021.09 - 2024.07*, [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), Electronics Science and Technology. 
 - B.S. *2017.09 - 2021.06*, Dalian University of Technology, Electrical Engineering and its Automation.
 
 
