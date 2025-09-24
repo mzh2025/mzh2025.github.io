@@ -15,16 +15,19 @@ redirect_from:
 Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. 
 
 # 🎓 Educations
-- Ph.D. *2024.09 - 2027.08 (expected)*, The Hong Kong Polytechnic University, Electrical Engineering.
-- M.S. *2021.09 - 2024.07*, ShanghaiTech University, Electronics Science and Technology. 
-- B.S. *2017.09 - 2021.06*, Dalian University of Technology, Electrical Engineering and its Automation.
+- **Ph.D. in Electrical Engineering** <code>2024.09 - 2027.08 (Expected)</code>  
+  <sub> The Hong Kong Polytechnic University | Hong Kong</sub>
 
+- **M.S. in Electronics Science and Technology** <code>2021.09 - 2024.07</code>  
+  <sub> ShanghaiTech University | Shanghai</sub>
 
+- **B.S. in Electrical Engineering and its Automation** <code>2017.09 - 2021.06</code>  
+  <sub> Dalian University of Technology | Dalian</sub>
 
 # 📝 Publications 
 
 ## Research Interests
-- Power System, State Estimation, Topology Identification, Data-Driven
+- Power System, State Estimation, Topology Identification, Fault Location, Smart Grid
 
 ## Journal Articles:
 
