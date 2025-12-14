@@ -12,7 +12,7 @@ redirect_from:
 
 
 # 🧑‍💻 About Me
-Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. 
+Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University. In my spare time, I enjoy swimming and hiking.
 
 # 🎓 Educations
 - **Ph.D. in Electrical Engineering** <code>2024.09 - 2027.08 (Expected)</code>  
@@ -23,6 +23,21 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 
 - **B.S. in Electrical Engineering and its Automation** <code>2017.09 - 2021.06</code>  
   <sub> Dalian University of Technology | Dalian</sub>
+
+# 🎓 Educations
+
+* **Ph.D. in Electrical Engineering**
+    * *The Hong Kong Polytechnic University*, Hong Kong
+    * 2024.09 - 2027.08 (Expected)
+
+* **M.S. in Electronics Science and Technology**
+    * *ShanghaiTech University*, Shanghai
+    * 2021.09 - 2024.07
+
+* **B.S. in Electrical Engineering and its Automation**
+    * *Dalian University of Technology*, Dalian
+    * 2017.09 - 2021.06
+ 
 
 # 📝 Publications 
 
