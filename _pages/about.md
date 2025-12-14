@@ -24,19 +24,34 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 - **B.S. in Electrical Engineering and its Automation** <code>2017.09 - 2021.06</code>  
   <sub> Dalian University of Technology | Dalian</sub>
 
-# 🎓 Educations
+# 🎓 Education
 
-* **Ph.D. in Electrical Engineering**
-    * *The Hong Kong Polytechnic University*, Hong Kong
-    * 2024.09 - 2027.08 (Expected)
+<div style="display: flex; justify-content: space-between;">
+  <strong>Ph.D. in Electrical Engineering</strong>
+  <span>2024.09 - 2027.08 (Expected)</span>
+</div>
+<div style="margin-bottom: 10px; font-style: italic; color: #555;">
+  The Hong Kong Polytechnic University, Hong Kong
+</div>
 
-* **M.S. in Electronics Science and Technology**
-    * *ShanghaiTech University*, Shanghai
-    * 2021.09 - 2024.07
+<div style="display: flex; justify-content: space-between;">
+  <strong>M.S. in Electronics Science and Technology</strong>
+  <span>2021.09 - 2024.07</span>
+</div>
+<div style="margin-bottom: 10px; font-style: italic; color: #555;">
+  ShanghaiTech University, Shanghai
+</div>
 
-* **B.S. in Electrical Engineering and its Automation**
-    * *Dalian University of Technology*, Dalian
-    * 2017.09 - 2021.06
+<div style="display: flex; justify-content: space-between;">
+  <strong>B.S. in Electrical Engineering and its Automation</strong>
+  <span>2017.09 - 2021.06</span>
+</div>
+<div style="font-style: italic; color: #555;">
+  Dalian University of Technology, Dalian
+</div>
+
+
+
  
 
 # 📝 Publications 
