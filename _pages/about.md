@@ -66,4 +66,13 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 - **[C6]** M. Duan et al., "Convolutional Neural Network-Based Fault Detection in Distribution Networks Using Voltage Magnitude Measurements," in *2025 7th Asia Energy and Electrical Engineering Symposium (AEEES)*, Chengdu, China, 2025, pp. 798-803.
 
 
+# Services
+
+## Journal Reviewer
+
+IEEE Transactions on Instrumentation and Measurement
+
+Electric Power Systems Research
+
+
 
