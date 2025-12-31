@@ -49,7 +49,7 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 ## Research Interests
 - Power System, State Estimation, Topology Identification, Fault Location, Smart Grid
 
-## Journal Articles:
+## Journal Papers:
 
 - **[J5]** M. Duan, A. Ye, and Y. Liu, “Physics-informed data-driven topology identification in power distribution networks with adversarial robustness enhancement,” *Electric Power Systems Research*, vol. 254, p. 112670, 2026.
 - **[J4]** Y. Xie, X. Zou, M. Duan, F. Fan, H. Wang and Y. Liu, "Distance Protection for Lines Terminated by Inverter-Based Resources Compatible With Various Inverter Control Schemes," *IEEE Transactions on Industrial Electronics*, 2025.
