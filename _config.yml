@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "MZH"
 description              : "Homepage"
-repository               : "mzh2025/mzh2025.github.io"
+仓库               : "mzh2025/mzh2025.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "mzh2025"
   google_plus      :
   keybase          :
   instagram        :
