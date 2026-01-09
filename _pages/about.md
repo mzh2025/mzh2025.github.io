@@ -51,7 +51,7 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 
 ## Journal Papers:
 
-- **[J5]** M. Duan, A. Ye, and Y. Liu, “Physics-informed data-driven topology identification in power distribution networks with adversarial robustness enhancement,” *Electric Power Systems Research*, vol. 254, p. 112670, 2026.
+- **[J5]** M. Duan, W. Zhang, J. Chen, W, Shi, Z. Xu and  J, Zhao, “Physics-informed data-driven topology identification in power distribution networks with adversarial robustness enhancement,” *Electric Power Systems Research*, vol. 254, p. 112670, 2026.
 - **[J4]** Y. Xie, X. Zou, M. Duan, F. Fan, H. Wang and Y. Liu, "Distance Protection for Lines Terminated by Inverter-Based Resources Compatible With Various Inverter Control Schemes," *IEEE Transactions on Industrial Electronics*, 2025.
 - **[J3]** D. Lu, J. Wan, M. Duan, Y. Xie, R. Fan, and Y. Liu, “Noniterative parameter-free fault location for practically transposed transmission lines with synchronized/unsynchronized measurements,” *IEEE Transactions on Instrumentation and Measurement*, 2025.
 - **[J2]** M. Duan, A. Ye, and Y. Liu, “Partially coupled transmission line fault location using single-ended measurements,” *Electric Power Systems Research*, vol. 233, p. 110496, 2024.
