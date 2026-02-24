@@ -86,5 +86,5 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 *The Hong Kong Polytechnic University, Hong Kong*
 
 **EE271 Power System** <span style="float:right;">2022.09 -- 2023.01</span>  
-*ShanghaiTech University, Shanghai, China*
+*ShanghaiTech University, Shanghai*
 
