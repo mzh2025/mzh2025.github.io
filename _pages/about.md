@@ -77,4 +77,14 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 - Electric Power Systems Research
 
 
+## Teaching Assistant
+
+**EE502 Modern Protection Methods** <span style="float:right;">2026.01 -- 2026.04</span>  
+*The Hong Kong Polytechnic University, Hong Kong*
+
+**EE545 Modern Generation and Grid Integration Technologies** <span style="float:right;">2024.09 -- 2024.12</span>  
+*The Hong Kong Polytechnic University, Hong Kong*
+
+**EE271 Power System** <span style="float:right;">2022.09 -- 2023.01</span>  
+*ShanghaiTech University, Shanghai, China*
 
