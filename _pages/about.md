@@ -22,7 +22,7 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 *ShanghaiTech University, Shanghai*
 
 **B.S. in Electrical Engineering and its Automation** <span style="float:right;">2017.09 - 2021.06</span>  
-**
+*Dalian University of Technology*
 
 
 
