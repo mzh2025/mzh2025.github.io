@@ -48,6 +48,8 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 
 - Electric Power Systems Research
 
+- International Journal of Electrical Power & Energy Systems
+
 
 ## Teaching Assistant
 
