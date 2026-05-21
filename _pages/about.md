@@ -32,8 +32,8 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 - Power System, State Estimation, Topology Identification, Fault Location, Smart Grid
 
 ## Journal Papers
-- **[J4]** M. Duan, Z, Hu, J. Chen, W. Zhang, Y. Zhao, X. Su, Y. Ding, Z. Xu and  Y. Jia, “[Adaptive Physics-Informed Data-Driven Topology Identification for Distribution Networks](https://ieeexplore.ieee.org/document/11527396),” *IEEE Transactions on Industrial Informatics*, 2026.
-- **[J3]** M. Duan, W. Zhang, J. Chen, W, Shi, Z. Xu and  J, Zhao, “[Physics-informed data-driven topology identification in power distribution networks with adversarial robustness enhancement](https://www.sciencedirect.com/science/article/abs/pii/S037877962501257X?via%3Dihub),” *Electric Power Systems Research*, vol. 254, p. 112670, 2026.
+- **[J4]** M. Duan, Z. Hu, J. Chen, W. Zhang, Y. Zhao, X. Su, Y. Ding, Z. Xu, and  Y. Jia, “[Adaptive physics-informed data-driven topology identification for distribution networks](https://ieeexplore.ieee.org/document/11527396),” *IEEE Transactions on Industrial Informatics*, 2026.
+- **[J3]** M. Duan, W. Zhang, J. Chen, W Shi, Z. Xu, and  J. Zhao, “[Physics-informed data-driven topology identification in power distribution networks with adversarial robustness enhancement](https://www.sciencedirect.com/science/article/abs/pii/S037877962501257X?via%3Dihub),” *Electric Power Systems Research*, vol. 254, p. 112670, 2026.
 - **[J2]** M. Duan, A. Ye, and Y. Liu, “[Partially coupled transmission line fault location using single-ended measurements](https://www.sciencedirect.com/science/article/abs/pii/S0378779624003821?via%3Dihub),” *Electric Power Systems Research*, vol. 233, p. 110496, 2024.
 - **[J1]** M. Duan, Y. Liu, D. Lu, and R. Pan, “[A novel noniterative single-ended fault location method with distributed parameter model for ac transmission lines](https://www.sciencedirect.com/science/article/pii/S0142061523004155?via%3Dihub),” *International Journal of Electrical Power & Energy Systems*, vol. 153, p. 109358, 2023.
 
@@ -41,11 +41,8 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 # 🔧 Services
 
 ## Journal Reviewer
-
 - IEEE Transactions on Instrumentation and Measurement
-
 - Electric Power Systems Research
-
 - International Journal of Electrical Power & Energy Systems
 
 
