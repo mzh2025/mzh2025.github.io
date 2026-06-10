@@ -41,6 +41,7 @@ Hi, this is mz's personal Homepage. I am currently pursuing the Ph.D. degree in 
 # 🔧 Services
 
 ## Journal Reviewer
+- IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Instrumentation and Measurement
 - Electric Power Systems Research
 - International Journal of Electrical Power & Energy Systems
