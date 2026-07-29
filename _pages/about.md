@@ -14,12 +14,16 @@ redirect_from:
 # 🧑‍💻 About Me
 I am currently pursuing a Ph.D. degree in the Department of Electrical and Electronic Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research focuses on power system state estimation, topology identification, and fault location for smart grids. In my spare time, I enjoy swimming and hiking.
 
+<span class='anchor' id='research-interests'></span>
+
 # Research Interests
 - Power Systems
 - State Estimation
 - Topology Identification
 - Fault Location
 - Smart Grids
+
+<span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications
 
@@ -28,6 +32,8 @@ I am currently pursuing a Ph.D. degree in the Department of Electrical and Elect
 - **[J3]** **M. Duan**, W. Zhang, J. Chen, W. Shi, Z. Xu, and J. Zhao, “[Physics-informed data-driven topology identification in power distribution networks with adversarial robustness enhancement](https://www.sciencedirect.com/science/article/abs/pii/S037877962501257X?via%3Dihub),” *Electric Power Systems Research*, vol. 254, p. 112670, 2026.
 - **[J2]** **M. Duan**, A. Ye, and Y. Liu, “[Partially coupled transmission line fault location using single-ended measurements](https://www.sciencedirect.com/science/article/abs/pii/S0378779624003821?via%3Dihub),” *Electric Power Systems Research*, vol. 233, p. 110496, 2024.
 - **[J1]** **M. Duan**, Y. Liu, D. Lu, and R. Pan, “[A novel noniterative single-ended fault location method with distributed parameter model for ac transmission lines](https://www.sciencedirect.com/science/article/pii/S0142061523004155?via%3Dihub),” *International Journal of Electrical Power & Energy Systems*, vol. 153, p. 109358, 2023.
+
+<span class='anchor' id='education'></span>
 
 # 🎓 Education
 **Ph.D. in Electrical Engineering** <span style="float:right;">2024.09 - 2027.08</span>  
@@ -39,6 +45,8 @@ I am currently pursuing a Ph.D. degree in the Department of Electrical and Elect
 **B.S. in Electrical Engineering and its Automation** <span style="float:right;">2017.09 - 2021.06</span>  
 *[Dalian University of Technology](https://en.dlut.edu.cn/), Dalian*
 
+<span class='anchor' id='academic-services'></span>
+
 # 🔧 Academic Services
 
 ## Journal Reviewer
@@ -48,7 +56,7 @@ I am currently pursuing a Ph.D. degree in the Department of Electrical and Elect
 - International Journal of Electrical Power & Energy Systems
 
 
-# Teaching
+## Teaching Assistant
 
 **EE502 Modern Protection Methods** <span style="float:right;">2026.01 -- 2026.04</span>  
 *The Hong Kong Polytechnic University, Hong Kong*
