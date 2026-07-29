@@ -12,11 +12,15 @@ redirect_from:
 
 
 # 🧑‍💻 About Me
-I am currently pursuing a Ph.D. degree in the Department of Electrical and Electronic Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research focuses on power system state estimation, topology identification, and fault location for smart grids. In my spare time, I enjoy swimming and hiking.
+I am currently pursuing a Ph.D. degree in the [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research focuses on power system state estimation, topology identification, and fault location for smart grids. In my spare time, I enjoy swimming and hiking.
+
+<span class='anchor' id='research'></span>
 
 <span class='anchor' id='research-interests'></span>
 
-# 🔬 Research Interests
+# Research
+
+## 🔬 Research Interests
 - Power Systems
 - State Estimation
 - Topology Identification
@@ -25,9 +29,8 @@ I am currently pursuing a Ph.D. degree in the Department of Electrical and Elect
 
 <span class='anchor' id='selected-publications'></span>
 
-# 📝 Selected Publications
+## 📝 Publications
 
-## Journal Papers
 - **[J4]** **M. Duan**, Z. Hu, J. Chen, W. Zhang, Y. Zhao, X. Su, Y. Ding, Z. Xu, and Y. Jia, “[Adaptive physics-informed data-driven topology identification for distribution networks](https://ieeexplore.ieee.org/document/11527396),” *IEEE Transactions on Industrial Informatics*, 2026.
 - **[J3]** **M. Duan**, W. Zhang, J. Chen, W. Shi, Z. Xu, and J. Zhao, “[Physics-informed data-driven topology identification in power distribution networks with adversarial robustness enhancement](https://www.sciencedirect.com/science/article/abs/pii/S037877962501257X?via%3Dihub),” *Electric Power Systems Research*, vol. 254, p. 112670, 2026.
 - **[J2]** **M. Duan**, A. Ye, and Y. Liu, “[Partially coupled transmission line fault location using single-ended measurements](https://www.sciencedirect.com/science/article/abs/pii/S0378779624003821?via%3Dihub),” *Electric Power Systems Research*, vol. 233, p. 110496, 2024.
@@ -49,14 +52,14 @@ I am currently pursuing a Ph.D. degree in the Department of Electrical and Elect
 
 # 🔧 Academic Services
 
-## Journal Reviewer
+## 🔍 Journal Reviewer
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Instrumentation and Measurement
 - Electric Power Systems Research
 - International Journal of Electrical Power & Energy Systems
 
 
-## Teaching Assistant
+## 🧑‍🏫 Teaching Assistant
 
 **EE502 Modern Protection Methods** <span style="float:right;">2026.01 -- 2026.04</span>  
 *The Hong Kong Polytechnic University, Hong Kong*
@@ -66,4 +69,8 @@ I am currently pursuing a Ph.D. degree in the Department of Electrical and Elect
 
 **EE271 Power System** <span style="float:right;">2022.09 -- 2023.01</span>  
 *ShanghaiTech University, Shanghai*
+
+<div class="visitor-map" aria-label="Visitor map">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=PF1Q1fyhPZkXo3ezS_BxBYjt0u8ViMMpiBIIPeo2Ts4&cl=ffffff&w=a"></script>
+</div>
 
