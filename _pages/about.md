@@ -16,7 +16,7 @@ I am currently pursuing a Ph.D. degree in the Department of Electrical and Elect
 
 <span class='anchor' id='research-interests'></span>
 
-# Research Interests
+# 🔬 Research Interests
 - Power Systems
 - State Estimation
 - Topology Identification
