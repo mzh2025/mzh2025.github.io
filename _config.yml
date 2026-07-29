@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "MZH"
-description              : "Homepage"
-仓库               : "mzh2025/mzh2025.github.io"
+title                    : "Mengzhao Duan"
+description              : "Ph.D. Student in Electrical Engineering | Power Systems and Smart Grids"
+repository               : "mzh2025/mzh2025.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mengzhao DUAN"
   avatar           : "images/google.png"
-  bio              : "The Hong Kong Polytecnic University"
+  bio              : "The Hong Kong Polytechnic University"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
