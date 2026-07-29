@@ -30,7 +30,7 @@ I am currently pursuing a Ph.D. degree in the [Department of Electrical and Elec
 
 <span class='anchor' id='research-interests'></span>
 
-# 🧠 Research
+# ⚡ Research
 
 ## 🔬 Research Interests
 - Power Systems
