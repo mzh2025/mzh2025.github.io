@@ -43,6 +43,7 @@ I am currently pursuing a Ph.D. degree in the [Department of Electrical and Elec
 
 ## 📝 Publications
 
+- **[J5]** **M. Duan**, Z. Hu, J. Chen, Y. Ding, Y. Zhao, and  Z. Xu, “[A Two-Stage Topology-Adaptive Physics-Guided Power Flow Learning Approach for Power Distribution Networks](https://ieeexplore.ieee.org/document/11638243),” *IEEE Transactions on Smart Grid*, 2026.
 - **[J4]** **M. Duan**, Z. Hu, J. Chen, W. Zhang, Y. Zhao, X. Su, Y. Ding, Z. Xu, and Y. Jia, “[Adaptive physics-informed data-driven topology identification for distribution networks](https://ieeexplore.ieee.org/document/11527396),” *IEEE Transactions on Industrial Informatics*, 2026.
 - **[J3]** **M. Duan**, W. Zhang, J. Chen, W. Shi, Z. Xu, and J. Zhao, “[Physics-informed data-driven topology identification in power distribution networks with adversarial robustness enhancement](https://www.sciencedirect.com/science/article/abs/pii/S037877962501257X?via%3Dihub),” *Electric Power Systems Research*, vol. 254, p. 112670, 2026.
 - **[J2]** **M. Duan**, A. Ye, and Y. Liu, “[Partially coupled transmission line fault location using single-ended measurements](https://www.sciencedirect.com/science/article/abs/pii/S0378779624003821?via%3Dihub),” *Electric Power Systems Research*, vol. 233, p. 110496, 2024.
