@@ -59,7 +59,9 @@ I am currently pursuing a Ph.D. degree in the [Department of Electrical and Elec
 - IEEE Transactions on Instrumentation and Measurement
 - Electric Power Systems Research
 - International Journal of Electrical Power & Energy Systems
+- Sustainable Energy, Grids and Networks
 - Measurement
+- Results in Engineering
 - Array
 
 
