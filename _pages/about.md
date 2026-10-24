@@ -71,14 +71,19 @@ I am currently pursuing a Ph.D. degree in the [Department of Electrical and Elec
 
 ## 🧑‍🏫 Teaching Assistant
 
-**EE502 Modern Protection Methods** <span style="float:right;">2026.01 -- 2026.04</span>  
-*The Hong Kong Polytechnic University, Hong Kong*
+**EE271 Power System** <span style="float:right;">2022.09 -- 2023.01</span>  
+*ShanghaiTech University, Shanghai*
 
 **EE545 Modern Generation and Grid Integration Technologies** <span style="float:right;">2024.09 -- 2024.12</span>  
 *The Hong Kong Polytechnic University, Hong Kong*
 
-**EE271 Power System** <span style="float:right;">2022.09 -- 2023.01</span>  
-*ShanghaiTech University, Shanghai*
+**EE502 Modern Protection Methods** <span style="float:right;">2026.01 -- 2026.04</span>  
+*The Hong Kong Polytechnic University, Hong Kong*
+
+**EIE4432 Web Systems and Technologies** <span style="float:right;">2026.09 -- 2026.12</span>  
+*The Hong Kong Polytechnic University, Hong Kong*
+
+
 
 <div class="visitor-map" aria-label="Visitor map">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=PF1Q1fyhPZkXo3ezS_BxBYjt0u8ViMMpiBIIPeo2Ts4&cl=ffffff&w=a"></script>
