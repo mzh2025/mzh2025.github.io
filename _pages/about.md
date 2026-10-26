@@ -43,12 +43,12 @@ I am currently pursuing a Ph.D. degree in the [Department of Electrical and Elec
 
 ## 📝 Publications
 
-- **[J5]** **M. Duan**, Z. Hu, J. Chen, Y. Ding, Y. Zhao, and  Z. Xu, “[A Two-Stage Topology-Adaptive Physics-Guided Power Flow Learning Approach for Power Distribution Networks](https://ieeexplore.ieee.org/document/11638243),” *IEEE Transactions on Smart Grid*, 2026.
+- **[J5]** **M. Duan**, Z. Hu, J. Chen, Y. Ding, Y. Zhao, and  Z. Xu, “[A two-stage topology-adaptive physics-guided power flow learning approach for power distribution networks](https://ieeexplore.ieee.org/document/11638243),” *IEEE Transactions on Smart Grid*, 2026.
 - **[J4]** **M. Duan**, Z. Hu, J. Chen, W. Zhang, Y. Zhao, X. Su, Y. Ding, Z. Xu, and Y. Jia, “[Adaptive physics-informed data-driven topology identification for distribution networks](https://ieeexplore.ieee.org/document/11527396),” *IEEE Transactions on Industrial Informatics*, 2026.
 - **[J3]** **M. Duan**, W. Zhang, J. Chen, W. Shi, Z. Xu, and J. Zhao, “[Physics-informed data-driven topology identification in power distribution networks with adversarial robustness enhancement](https://www.sciencedirect.com/science/article/abs/pii/S037877962501257X?via%3Dihub),” *Electric Power Systems Research*, vol. 254, p. 112670, 2026.
 - **[J2]** **M. Duan**, A. Ye, and Y. Liu, “[Partially coupled transmission line fault location using single-ended measurements](https://www.sciencedirect.com/science/article/abs/pii/S0378779624003821?via%3Dihub),” *Electric Power Systems Research*, vol. 233, p. 110496, 2024.
 - **[J1]** **M. Duan**, Y. Liu, D. Lu, and R. Pan, “[A novel noniterative single-ended fault location method with distributed parameter model for ac transmission lines](https://www.sciencedirect.com/science/article/pii/S0142061523004155?via%3Dihub),” *International Journal of Electrical Power & Energy Systems*, vol. 153, p. 109358, 2023.
-- **[C1]** **M. Duan**, Y. Liu, Z. Liu, X. Zou and Z. Guan, “[A Group of Single-Ended Time-Domain Line Fault Location Methods Using Breaker Operation Information](https://ieeexplore.ieee.org/abstract/document/10252886),” *IEEE Power & Energy Society General Meeting* (PESGM), Orlando, FL, USA, 2023, pp. 1-5.
+- **[C1]** **M. Duan**, Y. Liu, Z. Liu, X. Zou and Z. Guan, “[A group of single-ended time-domain line fault location methods using breaker operation information](https://ieeexplore.ieee.org/abstract/document/10252886),” *IEEE Power & Energy Society General Meeting* (PESGM), Orlando, FL, USA, 2023, pp. 1-5.
 
 
 
