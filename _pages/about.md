@@ -60,6 +60,7 @@ I am currently pursuing a Ph.D. degree in the [Department of Electrical and Elec
 ## 🔍 Journal Reviewer
 - IEEE Transactions on Smart Grid
 - IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Automation Science and Engineering
 - IEEE Transactions on Instrumentation and Measurement
 - Electric Power Systems Research
 - International Journal of Electrical Power & Energy Systems
